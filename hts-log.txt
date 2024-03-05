@@ -1,0 +1,142 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Mar 2024 14:36:27 at https://cercle-genealogique.fr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://cercle-genealogique.fr/ -O1 "C:\My Web Sites\https___cercle-genealogique.fr_11" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:43:42	Error: 	"Not Found" (404) at link https://cercle-genealogique.fr/http:/cercle-genealogique.fr/wp-content/uploads/2015/06/cercle-genealogique-img-actu-cercle.jpg (from https://cercle-genealogique.fr/)
+14:45:36	Warning: 	Unexpected socket error during pre-loop
+14:45:52	Error: 	"Not Found" (404) at link https://cercle-genealogique.fr/http:/cercle-genealogique.fr/wp-content/uploads/2015/06/cercle-genealogique-img-actu-genealogie-1.jpg (from https://cercle-genealogique.fr/)
+14:45:52	Error: 	"Not Found" (404) at link https://cercle-genealogique.fr/%22http:/cercle-genealogique.fr/wp-content/uploads/2015/06/cercle-genealogique-img-blocs-1.jpg (from https://cercle-genealogique.fr/)
+14:45:52	Warning: 	Moved Permanently for cercle-genealogique.fr/revue-nos-sources/
+14:45:52	Warning: 	File has moved from cercle-genealogique.fr/revue-nos-sources/ to http://cercle-genealogique.fr/revue-nos-sources-2/
+14:45:53	Error: 	"Not Found" (404) at link https://cercle-genealogique.fr/%22http:/cercle-genealogique.fr/wp-content/uploads/2015/06/cercle-genealogique-img-bureau-poste.jpg (from https://cercle-genealogique.fr/)
+14:47:01	Error: 	"Bad Request" (400) at link https://cercle-genealogique.fr/wp-admin/admin-ajax.php (from https://cercle-genealogique.fr/)
+14:47:04	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=10
+14:47:04	Warning: 	File has moved from https://cercle-genealogique.fr/?p=10 to https://cercle-genealogique.fr/association/
+14:47:05	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1503
+14:47:05	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1503 to https://cercle-genealogique.fr/association/notre-offre-notre-reseau/
+14:47:05	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1526
+14:47:05	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1526 to https://cercle-genealogique.fr/association/notre-histoire/
+14:47:05	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1490
+14:47:05	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1490 to https://cercle-genealogique.fr/association/notre-conseil-administration/
+14:47:06	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1509
+14:47:06	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1509 to https://cercle-genealogique.fr/association/statuts-reglement-interieur/
+14:47:06	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1507
+14:47:06	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1507 to https://cercle-genealogique.fr/association/nous-rejoindre/
+14:47:08	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1971
+14:47:08	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1971 to https://cercle-genealogique.fr/revue-nos-sources-2/
+14:47:08	Error: 	"Not Found" (404) at link https://cercle-genealogique.fr/revue-nos-sources-2/http:/cercle-genealogique.fr/wp-content/uploads/2015/05/couverture-bulletin-nos-sourcces-1.jpg (from https://cercle-genealogique.fr/revue-nos-sources-2/)
+14:47:08	Warning: 	Retry after error -4 (Incorrect length (368433 Bytes, 1879226 expected)) at link cercle-genealogique.fr/wp-content/uploads/2024/02/Mes_recherches_en_GUADELOUPE.pdf (from https://cercle-genealogique.fr/revue-nos-sources-2/)
+14:47:09	Warning: 	Retry after error -4 (Incorrect length (343168 Bytes, 4488192 expected)) at link cercle-genealogique.fr/wp-content/uploads/2024/02/livre-telephone-vienne.doc (from https://cercle-genealogique.fr/revue-nos-sources-2/)
+14:47:09	Warning: 	Retry after error -4 (Incorrect length (15334 Bytes, 35588 expected)) at link https://cercle-genealogique.fr/wp-content/uploads/fusion-scripts/977ae0bad36917c1ce79c1d574e215e5.min.js?ver=3.11.4 (from https://cercle-genealogique.fr/revue-nos-sources-2/)
+14:47:13	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=388
+14:47:13	Warning: 	File has moved from https://cercle-genealogique.fr/?p=388 to https://cercle-genealogique.fr/genealogies-et-chroniques/
+14:47:14	Warning: 	Retry after error -4 (Incorrect length (195105 Bytes, 678680 expected)) at link cercle-genealogique.fr/wp-content/uploads/2015/08/Fotolia_50721139_Subscription_Monthly_M.jpg (from https://cercle-genealogique.fr/genealogies-et-chroniques/)
+14:47:22	Warning: 	Retry after error -4 (Incorrect length (476532 Bytes, 854306 expected)) at link cercle-genealogique.fr/wp-content/uploads/2015/08/Fotolia_112753610_Subscription_Monthly_M.jpg (from https://cercle-genealogique.fr/genealogies-et-chroniques/)
+14:47:27	Warning: 	Retry after error -4 (Incorrect length (171057 Bytes, 540146 expected)) at link cercle-genealogique.fr/wp-content/uploads/2015/08/Fotolia_111761598_Subscription_Monthly_M.jpg (from https://cercle-genealogique.fr/genealogies-et-chroniques/)
+14:47:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cercle-genealogique.fr/genealogies-et-chroniques/genealogies/feed/ (from https://cercle-genealogique.fr/genealogies-et-chroniques/genealogies/)
+14:48:16	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1668
+14:48:16	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1668 to https://cercle-genealogique.fr/genealogies-et-chroniques/genealogies/
+14:48:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cercle-genealogique.fr/genealogies-et-chroniques/chroniques-familiales/feed/ (from https://cercle-genealogique.fr/genealogies-et-chroniques/chroniques-familiales/)
+14:48:19	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1671
+14:48:19	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1671 to https://cercle-genealogique.fr/genealogies-et-chroniques/chroniques-familiales/
+14:48:20	Warning: 	Retry after error -4 (Incorrect length (69055 Bytes, 404084 expected)) at link cercle-genealogique.fr/wp-content/uploads/2024/02/un-ferblantier-de-yonne-a-concarneau-1.pdf (from https://cercle-genealogique.fr/genealogies-et-chroniques/chroniques-familiales/)
+14:48:24	Warning: 	Retry after error -4 (Incorrect length (34875 Bytes, 713813 expected)) at link cercle-genealogique.fr/wp-content/uploads/2024/02/chronique-auto-famille-garnier-1936.pdf (from https://cercle-genealogique.fr/genealogies-et-chroniques/chroniques-familiales/)
+14:48:59	Warning: 	Retry after error -4 (Interrupted transfer) at link https://cercle-genealogique.fr/wp-content/uploads/fusion-scripts/c6df92631ac898a9b6b14cb07dd515d9.min.js?ver=3.11.4 (from https://cercle-genealogique.fr/genealogies-et-chroniques/chroniques-familiales/)
+14:49:01	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1673
+14:49:01	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1673 to https://cercle-genealogique.fr/genealogies-et-chroniques/dosssiers-de-personnel-des-postiers/
+14:49:02	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1675
+14:49:02	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1675 to https://cercle-genealogique.fr/genealogies-et-chroniques/cousinades/
+14:49:04	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1678
+14:49:04	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1678 to https://cercle-genealogique.fr/genealogies-et-chroniques/ouvrages-et-publications-de-nos-adherents/
+14:49:06	Warning: 	Retry after error -4 (Incorrect length (146621 Bytes, 445628 expected)) at link cercle-genealogique.fr/wp-content/uploads/2016/10/couv_lesdebutsdutelephone.jpg (from https://cercle-genealogique.fr/genealogies-et-chroniques/ouvrages-et-publications-de-nos-adherents/)
+14:49:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cercle-genealogique.fr/?p=609 (from https://cercle-genealogique.fr/liens/)
+14:49:39	Warning: 	Retry after error -4 (Interrupted transfer) at link https://cercle-genealogique.fr/wp-content/uploads/fusion-styles/49bcd6f67a9d938668bd267cab0ac653.min.css?ver=3.11.4 (from https://cercle-genealogique.fr/contact/)
+14:49:55	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=847
+14:49:55	Warning: 	File has moved from https://cercle-genealogique.fr/?p=847 to https://cercle-genealogique.fr/contact/
+14:49:57	Error: 	"Not Found" (404) at link https://cercle-genealogique.fr/contact/%22http:/cercle-genealogique.fr/wp-content/uploads/2015/06/cercle-genealogique-img-blocs-1.jpg (from https://cercle-genealogique.fr/contact/)
+14:49:58	Error: 	"Not Found" (404) at link https://cercle-genealogique.fr/wp-json/wp/v2/users/1 (from https://cercle-genealogique.fr/author/adminqb41dx79/)
+14:50:43	Warning: 	Unexpected socket error during pre-loop
+14:50:46	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=2034
+14:50:46	Warning: 	File has moved from https://cercle-genealogique.fr/?p=2034 to https://cercle-genealogique.fr/salon-de-genealogie-de-paris-mairie-15/
+14:51:37	Warning: 	Link https://cercle-genealogique.fr/author/michel_bablot/page/2/ not scanned (follow robots meta tag)
+14:51:37	Error: 	"Not Found" (404) at link https://cercle-genealogique.fr/wp-json/wp/v2/users/3 (from https://cercle-genealogique.fr/author/michel_bablot/)
+14:51:50	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=2385
+14:51:50	Warning: 	File has moved from https://cercle-genealogique.fr/?p=2385 to https://cercle-genealogique.fr/decouvrez-le-dernier-numero-de-la-revue/
+14:51:52	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=2363
+14:51:52	Warning: 	File has moved from https://cercle-genealogique.fr/?p=2363 to https://cercle-genealogique.fr/salon-de-genealogie-du-perigord-noir-dimanche-17-septembre-2023/
+14:51:54	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=2360
+14:51:54	Warning: 	File has moved from https://cercle-genealogique.fr/?p=2360 to https://cercle-genealogique.fr/forum-des-associations-paris-mairie-du-15eme/
+14:51:54	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=2273
+14:51:54	Warning: 	File has moved from https://cercle-genealogique.fr/?p=2273 to https://cercle-genealogique.fr/un-timbre-poste-pour-lanniversaire-de-la-creation-de-lecole-des-chartes/
+14:51:58	Warning: 	Moved Permanently for cercle-genealogique.fr/?p=1720
+14:51:58	Warning: 	File has moved from cercle-genealogique.fr/?p=1720 to http://cercle-genealogique.fr/actualites-du-cercle-genealogique/
+14:51:58	Warning: 	Link cercle-genealogique.fr/actualites-du-cercle-genealogique/page/2/ not scanned (follow robots meta tag)
+14:51:59	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=2407
+14:51:59	Warning: 	File has moved from https://cercle-genealogique.fr/?p=2407 to https://cercle-genealogique.fr/semaine-genealogie-2023-ffg-archives-militaires-2/
+14:52:00	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1967
+14:52:00	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1967 to https://cercle-genealogique.fr/semaine-genealogie-2023-ffg-archives-militaires/
+14:52:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cercle-genealogique.fr/wp-json/wp/v2/posts/2221 (from https://cercle-genealogique.fr/un-ouvrage-publie-au-quebec-par-nicole-mauger-les-vaugeois-frandeboeuf-de-la-bretagne-a-la-mauricie/)
+14:52:00	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=2221
+14:52:00	Warning: 	File has moved from https://cercle-genealogique.fr/?p=2221 to https://cercle-genealogique.fr/un-ouvrage-publie-au-quebec-par-nicole-mauger-les-vaugeois-frandeboeuf-de-la-bretagne-a-la-mauricie/
+14:52:01	Warning: 	Retry after error -4 (Receive Error) at link https://cercle-genealogique.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcercle-genealogique.fr%2Fun-ouvrage-publie-au-quebec-par-nicole-mauger-les-vaugeois-frandeboeuf-de-la-bretagne-a-la-mauricie%2F (from https://cercle-genealogique.fr/un-ouvrage-publie-au-quebec-par-nicole-mauger-les-vaugeois-frandeboeuf-de-la-bretagne-a-la-mauricie/)
+14:52:01	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1878
+14:52:01	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1878 to https://cercle-genealogique.fr/des-precisions-du-ministre-de-la-culture-et-de-la-communication-a-propos-du-site-de-fontainebleau-des-archives-nationales/
+14:52:04	Warning: 	Moved Permanently for cercle-genealogique.fr/?p=1731
+14:52:04	Warning: 	File has moved from cercle-genealogique.fr/?p=1731 to http://cercle-genealogique.fr/actualites-genealogie/
+14:52:05	Error: 	"Not Found" (404) at link test.volcanographics.com/wp-content/uploads/2016/10/GrandeCollecte2016_affiche_640715-225x300.jpg (from cercle-genealogique.fr/actualites-genealogie/)
+14:52:06	Warning: 	Retry after error -4 (Incorrect length (29798 Bytes, 31246 expected)) at link cercle-genealogique.fr/wp-content/uploads/fusion-scripts/81c54f2cc57c01b7377a643d1663c695.min.js?ver=3.11.4 (from cercle-genealogique.fr/actualites-genealogie/)
+14:52:07	Warning: 	Retry after error -4 (No data (connection closed)) at link cercle-genealogique.fr/rechercher-un-bureau-de-poste/feed/ (from cercle-genealogique.fr/rechercher-un-bureau-de-poste/)
+14:52:10	Warning: 	Retry after error -4 (Interrupted transfer) at link cercle-genealogique.fr/wp-content/uploads/fusion-styles/ebc40ac5d0d2aa16eca8deafbe0b1880.min.css?ver=3.11.4 (from cercle-genealogique.fr/rechercher-un-bureau-de-poste/)
+14:52:11	Warning: 	Retry after error -4 (Interrupted transfer) at link cercle-genealogique.fr/wp-json/wp/v2/pages/16 (from cercle-genealogique.fr/rechercher-un-bureau-de-poste/)
+14:52:14	Warning: 	Moved Permanently for cercle-genealogique.fr/?p=16
+14:52:14	Warning: 	File has moved from cercle-genealogique.fr/?p=16 to http://cercle-genealogique.fr/rechercher-un-bureau-de-poste/
+14:52:16	Warning: 	Moved Permanently for cercle-genealogique.fr/?p=1909
+14:52:16	Warning: 	File has moved from cercle-genealogique.fr/?p=1909 to http://cercle-genealogique.fr/mentions-legales/
+14:52:16	Warning: 	Moved Permanently for cercle-genealogique.fr/?p=1896
+14:52:16	Warning: 	File has moved from cercle-genealogique.fr/?p=1896 to http://cercle-genealogique.fr/plan-de-site/
+14:52:27	Warning: 	Moved Permanently for cercle-genealogique.fr/element_category/elements/
+14:52:27	Warning: 	File has moved from cercle-genealogique.fr/element_category/elements/ to http://cercle-genealogique.fr/
+14:52:28	Error: 	"Not Found" (404) at link test.volcanographics.com/wp-content/uploads/2016/08/cercle-genealogique-bg-03.jpg (from https://cercle-genealogique.fr/wp-content/uploads/fusion-styles/e7bba2d6527c538ba50bae186341793b.min.css?ver=3.11.4)
+14:52:29	Error: 	"Not Found" (404) at link test.volcanographics.com/wp-content/uploads/2016/10/cercle-genealogique-bg-05-1.jpg (from https://cercle-genealogique.fr/wp-content/uploads/fusion-styles/1e48a6cd6ebe817ae807236e28370f0c.min.css?ver=3.11.4)
+14:52:30	Warning: 	Retry after error -4 (Incorrect length (496010 Bytes, 1879226 expected)) at link cercle-genealogique.fr/wp-content/uploads/2024/02/Mes_recherches_en_GUADELOUPE.pdf (from https://cercle-genealogique.fr/revue-nos-sources-2/)
+14:52:33	Warning: 	Retry after error -4 (Incorrect length (3239779 Bytes, 4488192 expected)) at link cercle-genealogique.fr/wp-content/uploads/2024/02/livre-telephone-vienne.doc (from https://cercle-genealogique.fr/revue-nos-sources-2/)
+14:52:36	Error: 	"Not Found" (404) at link test.volcanographics.com/wp-content/uploads/2016/10/cercle-genealogique-img-08.jpg (from https://cercle-genealogique.fr/wp-content/uploads/fusion-styles/74acd1588c113bb1dc1e0e2e38f751f7.min.css?ver=3.11.4)
+14:52:36	Warning: 	Retry after error -4 (Incorrect length (509247 Bytes, 854306 expected)) at link cercle-genealogique.fr/wp-content/uploads/2015/08/Fotolia_112753610_Subscription_Monthly_M.jpg (from https://cercle-genealogique.fr/genealogies-et-chroniques/)
+14:52:38	Error: 	"Not Found" (404) at link test.volcanographics.com/wp-content/uploads/2016/10/cercle-genealogique-bg-04.jpg (from https://cercle-genealogique.fr/wp-content/uploads/fusion-styles/97e072e5430030ff01c9d1857d308594.min.css?ver=3.11.4)
+14:52:38	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=609
+14:52:38	Warning: 	File has moved from https://cercle-genealogique.fr/?p=609 to https://cercle-genealogique.fr/liens/
+14:52:42	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1871
+14:52:42	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1871 to https://cercle-genealogique.fr/les-reunions-du-cgptt-en-province-et-a-paris/
+14:52:43	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1717
+14:52:43	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1717 to https://cercle-genealogique.fr/xxive-salon-et-congres-national-de-genealogie-le-havre-2017-8-9-et-10-septembre-2017/
+14:52:43	Error: 	"Not Found" (404) at link test.volcanographics.com/wp-content/uploads/2016/10/Le-Havre-212x300.jpg (from https://cercle-genealogique.fr/xxive-salon-et-congres-national-de-genealogie-le-havre-2017-8-9-et-10-septembre-2017/)
+14:52:43	Warning: 	Retry after error -4 (Incorrect length (2300 Bytes, 6668 expected)) at link https://cercle-genealogique.fr/wp-json/wp/v2/posts/1714 (from https://cercle-genealogique.fr/la-grande-collecte-afrique-france-xixe-et-xxe/)
+14:52:44	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=1714
+14:52:44	Warning: 	File has moved from https://cercle-genealogique.fr/?p=1714 to https://cercle-genealogique.fr/la-grande-collecte-afrique-france-xixe-et-xxe/
+14:52:44	Warning: 	Retry after error -4 (Receive Error) at link https://cercle-genealogique.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcercle-genealogique.fr%2Fla-grande-collecte-afrique-france-xixe-et-xxe%2F&format=xml (from https://cercle-genealogique.fr/la-grande-collecte-afrique-france-xixe-et-xxe/)
+14:52:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://cercle-genealogique.fr/wp-json/wp/v2/posts/1714
+14:52:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cercle-genealogique.fr/wp-json/wp/v2/categories/1 (from https://cercle-genealogique.fr/category/non-classe/)
+14:52:51	Warning: 	Retry after error -4 (Interrupted transfer) at link cercle-genealogique.fr/?wordfence_lh=1&hid=75A6DE4C78EC063AC4824E698C769A4B (from https://cercle-genealogique.fr/2024/01/)
+14:52:53	Warning: 	Retry after error -4 (No data (connection closed)) at link cercle-genealogique.fr/?wordfence_lh=1&hid=087CBA06ACD72C5E70DBB1B9E74A6C99 (from https://cercle-genealogique.fr/2023/09/)
+14:53:04	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=2137
+14:53:04	Warning: 	File has moved from https://cercle-genealogique.fr/?p=2137 to https://cercle-genealogique.fr/livre-les-postiers-morts-pour-la-france-pendant-le-guerre-1914-1918/
+14:53:04	Warning: 	Moved Permanently for https://cercle-genealogique.fr/?p=2215
+14:53:04	Warning: 	File has moved from https://cercle-genealogique.fr/?p=2215 to https://cercle-genealogique.fr/le-cercle-genealogique-ptt-participe-au-salon-virtuel-de-genealogie-geneaevent/
+14:53:04	Warning: 	Retry after error -4 (Incorrect length (8355 Bytes, 12444 expected)) at link https://cercle-genealogique.fr/wp-content/uploads/fusion-scripts/70087ae4b372182bf8f733626d68bc60.min.js?ver=3.11.4 (from https://cercle-genealogique.fr/le-cercle-genealogique-ptt-participe-au-salon-virtuel-de-genealogie-geneaevent/)
+14:53:04	Error: 	"Not Found" (404) at link test.volcanographics.com/wp-content/uploads/2015/06/cercle-genealogique-img-00.jpg (from cercle-genealogique.fr/wp-content/uploads/fusion-styles/5768cc075736106f09537f700d25190f.min.css?ver=3.11.4)
+14:53:04	Error: 	"Not Found" (404) at link test.volcanographics.com/wp-content/uploads/2015/06/cercle-genealogique-img-actu-cercle.jpg (from cercle-genealogique.fr/wp-content/uploads/fusion-styles/5768cc075736106f09537f700d25190f.min.css?ver=3.11.4)
+14:53:04	Error: 	"Not Found" (404) at link test.volcanographics.com/wp-content/uploads/2015/06/cercle-genealogique-img-actu-genealogie-1.jpg (from cercle-genealogique.fr/wp-content/uploads/fusion-styles/564a7a5e199037beb055989fd7f93dbb.min.css?ver=3.11.4)
+14:53:08	Warning: 	Moved Permanently for cercle-genealogique.fr/?p=2070
+14:53:08	Warning: 	File has moved from cercle-genealogique.fr/?p=2070 to http://cercle-genealogique.fr/label-centenaire-14-18-etude-nationale-postiers-disparus-pendant-premiere-guerre-mondiale-1914-1918-2/
+14:53:08	Error: 	"Incorrect length (511719 Bytes, 1879226 expected)" (-4) after 2 retries at link cercle-genealogique.fr/wp-content/uploads/2024/02/Mes_recherches_en_GUADELOUPE.pdf (from https://cercle-genealogique.fr/revue-nos-sources-2/)
+14:53:08	Error: 	"Incorrect length (3288266 Bytes, 4488192 expected)" (-4) after 2 retries at link cercle-genealogique.fr/wp-content/uploads/2024/02/livre-telephone-vienne.doc (from https://cercle-genealogique.fr/revue-nos-sources-2/)
+14:53:08	Error: 	"Incorrect length (515791 Bytes, 854306 expected)" (-4) after 2 retries at link cercle-genealogique.fr/wp-content/uploads/2015/08/Fotolia_112753610_Subscription_Monthly_M.jpg (from https://cercle-genealogique.fr/genealogies-et-chroniques/)
+14:53:08	Error: 	"Not Found" (404) at link test.volcanographics.com/wp-content/uploads/2016/08/cercle-genealogique-bg-02.jpg (from https://cercle-genealogique.fr/wp-content/uploads/fusion-styles/49bcd6f67a9d938668bd267cab0ac653.min.css?ver=3.11.4)
+14:53:08	Error: 	"Not Found" (404) at link test.volcanographics.com/wp-content/uploads/2016/10/cercle-genealogique-img-06.jpg (from cercle-genealogique.fr/wp-content/uploads/fusion-styles/ebc40ac5d0d2aa16eca8deafbe0b1880.min.css?ver=3.11.4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 42 seconds : 488 links scanned, 397 files written (46599253 bytes overall) [23847874 bytes received at 23800 bytes/sec], 34484347 bytes transferred using HTTP compression in 161 files, ratio 19%, 1.9 requests per connection
+(23 errors, 108 warnings, 0 messages)
